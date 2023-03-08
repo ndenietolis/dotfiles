@@ -1,3 +1,4 @@
+" Linked from repo @ http://github.com/ndenietolis/dotfiles.git
 set ruler
 set number
 imap ii <esc>
